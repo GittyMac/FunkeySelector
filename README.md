@@ -1,7 +1,10 @@
 <img align="left" width="100" height="100" src="https://i.imgur.com/BQZAfOc.png"> 
 
-# FunkeySelectorGUI
+# FunkeySelectorGUI (Español) 
 A GUI for the Funkeys Selection Mod.
+
+## Differences from regular FunkeySelectorGUI
+This version is designed for the older, 2.0 Spanish release of U.B. Funkeys.
 
 ## Installation
 To install FunkeySelectorGUI, put the FunkeySelector.exe file in the RadicaGame folder of your U.B. Funkeys installation.
